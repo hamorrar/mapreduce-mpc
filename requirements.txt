@@ -1,1 +1,8 @@
 mrjob
+tensorflow
+transformers
+pandas
+scikit-learn
+torch
+mpyc
+gmpy2
